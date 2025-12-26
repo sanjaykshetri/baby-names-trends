@@ -2,15 +2,25 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-[![Notebook](https://img.shields.io/badge/View-Interactive%20Notebook-orange?logo=jupyter)](https://nbviewer.org/github/sanjaykshetri/baby-names-trends/blob/main/notebooks/05_complete_story.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjaykshetri/baby-names-trends/main?filepath=notebooks/05_complete_story.ipynb)
 
 > **How do baby names act as time capsules of U.S. immigration history?**
 
 ## 🚀 **Quick Start: View the Complete Analysis**
 
-**📊 [View Interactive Notebook on NBViewer](https://nbviewer.org/github/sanjaykshetri/baby-names-trends/blob/main/notebooks/05_complete_story.ipynb)** *(Recommended - all visualizations render properly)*
+### **Launch Interactive Notebook (Fully Executable):**
 
-> ⚠️ **Note:** Interactive Plotly visualizations don't render on GitHub's notebook viewer. Use NBViewer for the full experience!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjaykshetri/baby-names-trends/main?filepath=notebooks/05_complete_story.ipynb) **← Click to launch in your browser**
+
+*No installation needed! Binder creates a temporary executable environment with all visualizations working.*
+
+### **Alternative Viewing Options:**
+
+- 📂 **Clone & Run Locally:** `git clone https://github.com/sanjaykshetri/baby-names-trends.git` (Best experience)
+- ☁️ **[Google Colab](https://colab.research.google.com/github/sanjaykshetri/baby-names-trends/blob/main/notebooks/05_complete_story.ipynb)** (Cloud execution)
+- 📊 **[Standalone HTML Visualizations](reports/figures/)** (Download and open in browser)
+
+> ⚠️ **Note:** GitHub and most notebook viewers don't render interactive Plotly visualizations. Use Binder or run locally for the full experience!
 
 This project explores how U.S. baby name trends mirror waves of immigration and immigration policy changes, focusing on the 1924 Immigration Act (restrictive quotas) and the 1965 Hart-Celler Act (removal of national-origin quotas).
 
