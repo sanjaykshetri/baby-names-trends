@@ -2,8 +2,15 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Notebook](https://img.shields.io/badge/View-Interactive%20Notebook-orange?logo=jupyter)](https://nbviewer.org/github/sanjaykshetri/baby-names-trends/blob/main/notebooks/05_complete_story.ipynb)
 
 > **How do baby names act as time capsules of U.S. immigration history?**
+
+## 🚀 **Quick Start: View the Complete Analysis**
+
+**📊 [View Interactive Notebook on NBViewer](https://nbviewer.org/github/sanjaykshetri/baby-names-trends/blob/main/notebooks/05_complete_story.ipynb)** *(Recommended - all visualizations render properly)*
+
+> ⚠️ **Note:** Interactive Plotly visualizations don't render on GitHub's notebook viewer. Use NBViewer for the full experience!
 
 This project explores how U.S. baby name trends mirror waves of immigration and immigration policy changes, focusing on the 1924 Immigration Act (restrictive quotas) and the 1965 Hart-Celler Act (removal of national-origin quotas).
 
@@ -37,7 +44,8 @@ baby-names-trends/
 │   ├── 01_eda_babynames.ipynb         # Exploratory data analysis
 │   ├── 02_name_origin_mapping.ipynb   # Name-to-origin classification
 │   ├── 03_region_trends_and_index.ipynb  # Trend calculation & analysis
-│   └── 04_plots_for_presentation.ipynb   # Publication-ready visualizations
+│   ├── 04_plots_for_presentation.ipynb   # Publication-ready visualizations
+│   └── 05_complete_story.ipynb        # 🌟 COMPREHENSIVE SYNTHESIS NOTEBOOK
 │
 ├── src/
 │   ├── __init__.py                    # Package initialization
